@@ -1,0 +1,9 @@
+# Surge rule set converted from NEW RULS.rtf
+DOMAIN-SUFFIX,music.apple.com
+DOMAIN-SUFFIX,amp-api.music.apple.com
+DOMAIN-SUFFIX,amp-api-edge.music.apple.com
+DOMAIN-SUFFIX,5music.com.tw
+DOMAIN-KEYWORD,dola
+DOMAIN-SUFFIX,mnc001.mcc466.pub.3gppnetwork.org
+DOMAIN-KEYWORD,mcc466
+IP-CIDR,211.77.0.0/16

@@ -1,0 +1,8 @@
+# Surge rule set converted from NEW RULS.rtf
+DOMAIN,gs-loc-cn.apple.com
+DOMAIN,fpinit.itunes.apple.com
+DOMAIN-KEYWORD,grok
+DOMAIN-SUFFIX,mnc010.mcc234.pub.3gppnetwork.org
+DOMAIN-KEYWORD,mcc234
+IP-CIDR,87.194.0.0/16
+DOMAIN,gspe1-ssl.ls.apple.com
